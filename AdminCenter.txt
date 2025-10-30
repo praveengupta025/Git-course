@@ -1,2 +1,3 @@
 this for admin only
 enter the admin details here
+you have now entered in admin center
